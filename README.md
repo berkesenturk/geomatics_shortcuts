@@ -1,1 +1,1 @@
-# geomatics_shortcuts
+# geomatics shortcuts
